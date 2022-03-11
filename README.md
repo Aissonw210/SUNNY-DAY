@@ -1,15 +1,14 @@
 ## Welcome to My Webpage
+Hello Everyone, my name is **Aisson Washington** and welcome to Sunny Day. I'm very new to everthing that the Penn Bootcamp has offered and is ready. I am glad to be here and recieved an great opportunity like this. and i hope i get the chance to get know everyone in this program. 
 
-You can use the [editor on GitHub](https://github.com/Aissonw210/SUNNY-DAY/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![Image](src)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ### Hobbies 
-- Traveling
-- Video Games
-- chill & Listen to Music
-- Cooking
-- Reading Comics
-- Watching Old Classical Movies
+- **Traveling:** I like travel and see new things, I will go on hikes, be around nature to exercise or clear my head.
+- **Video Games:** totally a playstation player, I play adventurous games to fantasy or superhero games, like Uncharted, God of War, my favorite first person shooting game is Tom's Clancy Division, Battlefield 1 and Black Ops:Cold War.
+- **Cooking** cooking is a mental calm remedity for me, when i cook something either its breakfast or making dinner, took me its a fun hobbie that makes me wanna learn something new about it everyday.
+- **Reading Comics** favorite comic series, Invincible, Spider-Man, Eternals, X-Men and Spawn.
+- **Watching Old Classical Movies** watching movies that i grew up and 
 - Marvel and DC
 
 ## Where I'm From
@@ -17,25 +16,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Pennsylvania, Philadelphia 
 
 ### Why Did I Join The Program
+Coding is a skill I wanted to learn, I wanted to learn the new lanes of modern technology that i've haven't experience and knew 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
@@ -44,8 +27,4 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Aissonw210/SUNNY-DAY/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
