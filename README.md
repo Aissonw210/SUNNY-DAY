@@ -4,13 +4,13 @@ You can use the [editor on GitHub](https://github.com/Aissonw210/SUNNY-DAY/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ### Hobbies 
-Traveling
-Video Games
-chill & Listen to Music
-Cooking
-Reading Comics
-Watching Old Classical Movies
-Marvel and DC
+- Traveling
+- Video Games
+- chill & Listen to Music
+- Cooking
+- Reading Comics
+- Watching Old Classical Movies
+- Marvel and DC
 
 ## Where I'm From
 
